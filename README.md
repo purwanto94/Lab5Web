@@ -54,4 +54,6 @@ membuat form checkbox dan pada saat chechbox tersebut di centang maka nilai yang
 ![16](https://user-images.githubusercontent.com/50513551/115947847-b0cafa80-a4f4-11eb-8346-f4e517f14216.png)
 
 Validasi pada form
-Jika form tidak di isi dengan lengkap maka akan muncul pop up warning. 
+Jika form tidak di isi dengan lengkap maka akan muncul pop up warning. untuk memunculkan popup tersebut menggunakan fungsi if else. if jika semua form sudah ada nilainya atau di isi maka bernilai true atau bisa di lanjutkan. Sedangkan else jika form nya belum di isi semua maka akan memunculkan alert.
+![17](https://user-images.githubusercontent.com/50513551/115947936-2931bb80-a4f5-11eb-9649-8db35a92f5f1.png)
+
