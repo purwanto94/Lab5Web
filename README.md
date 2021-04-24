@@ -31,3 +31,27 @@ operasi dasar aritmatika menggunakan javascript seperti perkalian, penjumlahan, 
 ![7](https://user-images.githubusercontent.com/50513551/115883358-e5e53780-a477-11eb-8c49-997ab8272717.png)
 
 seleksi kondisi if else
+Dengan menggunakan perintah prompt akan muncul pop up form yang harus di isi nilai 1-100. Kemudian jika di Ok akan menjalankan perintah if else. if jika nilai lebih dari sama dengan 60 maka hasi sama dengan lulus. Else selain itu hasil tidak lulus.
+![9](https://user-images.githubusercontent.com/50513551/115947667-609f6880-a4f3-11eb-91b8-3efbc892ee1f.png)
+![10](https://user-images.githubusercontent.com/50513551/115947668-639a5900-a4f3-11eb-84ce-c4991780e68c.png)
+
+Operator switch
+Switch atau beralih. Dengan perintah window.promt akan muncul popup form yang harus di isi nilai 1-5. Kemudian jika di Ok pada halaman website akan memunculkan ejaan dari nilai yang sudah di pilih. 
+![11](https://user-images.githubusercontent.com/50513551/115947736-d7d4fc80-a4f3-11eb-9056-760fac86105d.png)
+![12](https://user-images.githubusercontent.com/50513551/115947737-d86d9300-a4f3-11eb-950d-52bb4bd745e8.png)
+![13](https://user-images.githubusercontent.com/50513551/115947740-db688380-a4f3-11eb-81ae-792f45fc236e.png)
+
+Form input
+Form input BIL di isi dengan angka bebas, kemudian pada form MERUPAKAN BIL akan muncul angka tersebut ganjil atau genap setelah di klik tombol TEBAK. Form tersebut bisa menebak ganjil atau genap menggunakan fungsi if else.
+![14](https://user-images.githubusercontent.com/50513551/115947774-35694900-a4f4-11eb-83d3-caf21f5fc055.png)
+
+Form button
+Form button atau form dengan input type button. Dengan perintah untuk merubah background dan warna teks. Jika tombol tersebut diklik maka akan merubah background atau warna teks sesuai dengan yang sudah di setting pada javascript.
+![15](https://user-images.githubusercontent.com/50513551/115947813-811bf280-a4f4-11eb-8190-8e61c8075690.png)
+
+Checkbox perhitungan otomatis
+membuat form checkbox dan pada saat chechbox tersebut di centang maka nilai yang ada di checkbox tersebut akan langsung terhitung otomatis pada kolom total bayar.
+![16](https://user-images.githubusercontent.com/50513551/115947847-b0cafa80-a4f4-11eb-8346-f4e517f14216.png)
+
+Validasi pada form
+Jika form tidak di isi dengan lengkap maka akan muncul pop up warning. 
